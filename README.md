@@ -1,6 +1,8 @@
+Not ready yet.
+
 [![npm version](https://badge.fury.io/js/apollo-datasource-mongodb.svg)](https://www.npmjs.com/package/apollo-datasource-mongodb)
 
-Apollo [data source](https://www.apollographql.com/docs/apollo-server/features/data-sources) for MongoDB
+Apollo [data source](https://www.apollographql.com/docs/apollo-server/features/data-sources) for [Mongoose](https://mongoosejs.com/)
 
 ```
 npm i apollo-datasource-mongodb
